@@ -2,14 +2,28 @@
 056f71be-a0f9-44f4-82b5-312682e1cc80,Set VirusScan Device Count (DEP),false,111 AND (222 OR 333 OR 444),Custom,"#N/A",On Initialization,2.0,"#N/A",Calculator
 06406a7a-afb8-4506-b4c3-8bdaf8e0047d,Lookup Approval Level [Discount],false,"#N/A",All,"#N/A",On Initialization;Before Calculate;On Calculate;After Calculate,99.0,Approval_Threshold__c,Calculator
 0eb402c2-58ae-42aa-afeb-5b949c63cb7c,Set Professional Services Role Rates,false,"#N/A",All,"#N/A",On Calculate,"#N/A",Professional_Services_Rate__c,Calculator
+114809c0-a1ff-4bbe-9c68-38fc36ffcb41,Fake Price Rule - Delete Me,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
 409f1e36-e045-43ef-8920-b77ad6f52855,Set VirusScan Device Count,false,111 AND (222 OR 333 OR 444),Custom,Save,"#N/A",1.0,"#N/A",Configurator
+424c4cb3-741e-4d4a-a000-32cf28aa9349,Set True Discretionary Discount %,false,"#N/A",All,"#N/A",After Calculate,98.0,"#N/A",Calculator
 43cc9e36-bd5a-42c2-9ca1-0e03e53dd6f0,Lookup Approval Level 1 [Discount],false,"#N/A",All,"#N/A",On Initialization,50.0,Approval_Threshold__c,Calculator
 4b5e1b31-3d18-40bb-ac81-058ef4ecddb6,Billing Frequency Approval,false,"#N/A",All,"#N/A",On Initialization;On Calculate,20.0,"#N/A",Calculator
+54bed8bf-777a-40ba-bee7-c5004c3f14dd,Set VirusScan Device Count (DEP),false,111 AND (222 OR 333 OR 444),Custom,"#N/A",On Initialization,2.0,"#N/A",Calculator
+6dd7c6ca-6c88-455f-8440-7ac994f5c33b,Set Professional Services Role Rates,false,"#N/A",All,"#N/A",On Calculate,"#N/A",Professional_Services_Rate__c,Calculator
+75158f44-513f-49ca-8a9e-e2f5094798ae,Set VirusScan Device Count,false,111 AND (222 OR 333 OR 444),Custom,Save,"#N/A",1.0,"#N/A",Configurator
+793aa775-451b-427d-a4b1-3bfdc6c24165,Lookup Approval Level 2 [Discount],false,"#N/A",All,"#N/A",On Initialization,51.0,Approval_Threshold__c,Calculator
+7a737119-0efb-495c-8fb0-d6e6b8232dbc,Lookup Approval Level 1 [Discount],false,"#N/A",All,"#N/A",On Initialization,50.0,Approval_Threshold__c,Calculator
+7c48918d-3a23-46e9-b25f-77d60e538e59,Billing Frequency Approval,false,"#N/A",All,"#N/A",On Initialization;On Calculate,20.0,"#N/A",Calculator
 82ecfd9c-f69d-4a7b-a089-d767ad90b2b6,Fake Price Rule - Delete Me,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
+8d0cfbb2-8ae1-4231-b8e9-a03da9845528,Lookup Approval Level [Discount],false,"#N/A",All,"#N/A",On Initialization;Before Calculate;On Calculate;After Calculate,99.0,Approval_Threshold__c,Calculator
+8e673438-7c68-4956-b4c3-4f19f54a8f70,Set Quantity for VirusScan Mac,false,"#N/A",All,Edit,Before Calculate,"#N/A","#N/A",Configurator
+9905fcd0-5c31-47fa-8056-f803ec8221d9,Auto test Renewal Uplift of 3333%,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
 ae390c41-c2fc-4a02-ae03-48b4674458d7,Set Quantity for VirusScan Mac,false,"#N/A",All,Edit,Before Calculate,"#N/A","#N/A",Configurator
 b3e4cdb5-c2d8-4123-8f21-1d4a8e3caa34,Lookup Approval Level 3 [Discount],false,"#N/A",All,"#N/A",On Initialization,53.0,Approval_Threshold__c,Calculator
 b41c2e59-21fa-4b38-b80a-1298681daecb,Set True Discretionary Discount %,false,"#N/A",All,"#N/A",After Calculate,98.0,"#N/A",Calculator
 b9b1f913-1f5f-4f57-a586-5765305950aa,Auto Renewal Uplift of 3%,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
+da05fe2e-1b0f-468f-9567-9fd098be349c,Calculate Tax at Order/Invoice,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
+dcb6dc0f-043b-4767-a8ab-d54fb404b137,Config - Set Device Count,false,"#N/A",All,Edit,"#N/A",99.0,"#N/A",Configurator
+dd99e03e-d3a5-4043-9524-409882a8b188,Lookup Approval Level 3 [Discount],false,"#N/A",All,"#N/A",On Initialization,53.0,Approval_Threshold__c,Calculator
 e521ae52-5f7b-40dc-9b67-e48abcfcb0b5,Lookup Approval Level 2 [Discount],false,"#N/A",All,"#N/A",On Initialization,51.0,Approval_Threshold__c,Calculator
 e92e1279-8e26-4651-9b02-ba8478332080,Calculate Tax at Order/Invoice,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
 f3301db5-185f-467d-9804-54d310912321,Config - Set Device Count,false,"#N/A",All,Edit,"#N/A",99.0,"#N/A",Configurator
