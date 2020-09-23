@@ -24,7 +24,7 @@
 8ec2382f-e34f-47c4-9589-2c95044a57c4,Set Quantity for VirusScan Mac,false,"#N/A",All,Edit,Before Calculate,"#N/A","#N/A",Configurator
 8f895fa8-5ac5-441a-89a8-74390374c696,Lookup Approval Level 1 [Discount],false,"#N/A",All,"#N/A",On Initialization,50.0,Approval_Threshold__c,Calculator
 93a9aba4-789b-45e4-bdee-65ef47e7ac71,Auto Test Renewal Uplift of 3%,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
-96a06e14-3b32-428c-9a14-921f484c9e22,Calculate Tax at Order/Invoice,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
+96a06e14-3b32-428c-9a14-921f484c9e22,Calculate  Test Tax at Order/Invoice,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
 a6412f78-1c21-489c-a6ee-215ba2f7c47d,Lookup Approval Level [Discount],false,"#N/A",All,"#N/A",On Initialization;Before Calculate;On Calculate;After Calculate,99.0,Approval_Threshold__c,Calculator
 a656f7cd-1f4f-412a-ac86-8e76c23a5c08,Lookup Approval Level 1 [Discount],false,"#N/A",All,"#N/A",On Initialization,50.0,Approval_Threshold__c,Calculator
 a6a13805-aa2f-42ea-978a-f17b7f0e2ebf,Set Professional Services Role Rates,false,"#N/A",All,"#N/A",On Calculate,"#N/A",Professional_Services_Rate__c,Calculator
